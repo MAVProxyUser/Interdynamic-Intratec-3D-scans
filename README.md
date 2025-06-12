@@ -1,3 +1,5 @@
+CC BY SA NC licensing. 
+
 # Interdynamic KG99 + Intratec Tec9, DC9, & AB10 3D scans
 
 ["In a sec, I'll throw the TEC to your fuckin' neck"](https://genius.com/The-notorious-big-ready-to-die-lyrics)<br>
