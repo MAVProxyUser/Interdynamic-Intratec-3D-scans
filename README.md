@@ -37,7 +37,8 @@ It is impossible to deny the Tec-9 it's place in [history](https://web.archive.o
 [2012 - Politics: Chuck Schumer on Gun Control: Why Can’t We All Just Get Along?](https://www.thetruthaboutguns.com/chuck-schumer-on-gun-control-why-cant-we-all-just-get-along/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Schumer.jpg"><br>
 
-[Modern day - Countless Songs](https://genius.com/search?q=tec9)
+[Modern day - Countless Songs](https://genius.com/search?q=tec9)<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/LyricMatch.png"><br>
 
 ## Licensing, and access to these files
 These STEP files are released with Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing. 
