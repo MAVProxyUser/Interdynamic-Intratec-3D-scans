@@ -28,6 +28,8 @@
 [2002 - Video Game: Grand Theft Auto Vice City](https://www.rockstargames.com/games/vicecity)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/GTA-Tec9.jpeg"><br>
 
+[2012 - Politics: Chuck Schumer on Gun Control: Why Can’t We All Just Get Along?](https://www.thetruthaboutguns.com/chuck-schumer-on-gun-control-why-cant-we-all-just-get-along/)<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Schumer.jpg"><br>
 
 ## Licensing, and access to these files
 These STEP files are released with Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing. 
