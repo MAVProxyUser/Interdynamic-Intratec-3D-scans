@@ -10,14 +10,18 @@
 
 ## Lore
 
+1994 Notorious B.I.G. - [Ready To Die](https://dn721909.ca.archive.org/0/items/ready-to-die_202404/06%20Ready%20to%20Die.mp3)
 ["In a sec, I'll throw the TEC to your fuckin' neck"](https://genius.com/The-notorious-big-ready-to-die-lyrics)<br>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/FallingDown.jpg"><br>
-  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Calderone%20Cartel%20Miami%20Vice.jpg"><br>
-  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Jack%20Burton.jpg"><br> 
-  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/GTA-Tec9.jpeg"><br>  
-
+[1999 Movie Falling Down](https://www.imdb.com/title/tt0106856/)<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/FallingDown.jpg"><br>
+[1984 Miami Vice Episode "Brother's Keeper"](https://www.imdb.com/title/tt0086759/)<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Calderone%20Cartel%20Miami%20Vice.jpg"><br>
+[1986 Movie Big Trouble in Little China](https://www.imdb.com/title/tt0090728/)
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Jack%20Burton.jpg"><br> 
+[2002 Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity)
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/GTA-Tec9.jpeg"><br>  
 </p>
 
 ## Licensing, and access to these files
