@@ -10,6 +10,8 @@
 
 ## Lore
 
+It is impossible to deny the Tec-9 it's place in [history](https://www.guns.com/news/2013/08/24/the-tec-9-kellgrens-budget-burpgun), be it TV shows, movies, music, politics, video games, or real life... pop cuture is in love with this iconic "tube".
+
 [1984 - TV Episode: Miami Vice "Brother's Keeper"](https://www.imdb.com/title/tt0086759/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Calderone%20Cartel%20Miami%20Vice.jpg"><br>
 
@@ -34,6 +36,8 @@
 
 [2012 - Politics: Chuck Schumer on Gun Control: Why Can’t We All Just Get Along?](https://www.thetruthaboutguns.com/chuck-schumer-on-gun-control-why-cant-we-all-just-get-along/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Schumer.jpg"><br>
+
+[Modern day - Countless Songs](https://genius.com/search?q=tec9)
 
 ## Licensing, and access to these files
 These STEP files are released with Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing. 
