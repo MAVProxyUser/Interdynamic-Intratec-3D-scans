@@ -15,7 +15,9 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/FallingDown.jpg"><br>
   <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Calderone%20Cartel%20Miami%20Vice.jpg"><br>
-  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Jack%20Burton.jpg"><br>  
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Jack%20Burton.jpg"><br> 
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/GTA-Tec9.jpeg"><br>  
+
 </p>
 
 ## Licensing, and access to these files
