@@ -10,19 +10,22 @@
 
 ## Lore
 
-1994 Notorious B.I.G. - [Ready To Die](https://dn721909.ca.archive.org/0/items/ready-to-die_202404/06%20Ready%20to%20Die.mp3)
-["In a sec, I'll throw the TEC to your fuckin' neck"](https://genius.com/The-notorious-big-ready-to-die-lyrics)<br>
+[1994 Song - Notorious B.I.G. Ready To Die](https://dn721909.ca.archive.org/0/items/ready-to-die_202404/06%20Ready%20to%20Die.mp3)<br>
+["In a sec, I'll throw the TEC to your fuckin' neck"](https://genius.com/161434/The-notorious-big-ready-to-die/Everybody-hit-the-deck-biggie-bout-to-get-some-wreck)<br>
 
-<p align="left">
-[1999 Movie Falling Down](https://www.imdb.com/title/tt0106856/)<br>
+
+[1999 Movie - Falling Down](https://www.imdb.com/title/tt0106856/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/FallingDown.jpg"><br>
-[1984 Miami Vice Episode "Brother's Keeper"](https://www.imdb.com/title/tt0086759/)<br>
+
+[1984 - TV Episode Miami Vice "Brother's Keeper"](https://www.imdb.com/title/tt0086759/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Calderone%20Cartel%20Miami%20Vice.jpg"><br>
-[1986 Movie Big Trouble in Little China](https://www.imdb.com/title/tt0090728/)
+
+[1986 - Movie Big Trouble in Little China](https://www.imdb.com/title/tt0090728/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Jack%20Burton.jpg"><br> 
-[2002 Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity)
-<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/GTA-Tec9.jpeg"><br>  
-</p>
+
+[2002 - Video Game Grand Theft Auto: Vice City](https://www.rockstargames.com/games/vicecity)<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/GTA-Tec9.jpeg"><br>
+
 
 ## Licensing, and access to these files
 These STEP files are released with Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensing. 
