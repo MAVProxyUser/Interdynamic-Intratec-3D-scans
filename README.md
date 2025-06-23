@@ -16,7 +16,7 @@
 [1986 - Movie: Big Trouble in Little China](https://www.imdb.com/title/tt0090728/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Jack%20Burton.jpg"><br> 
 
-[1993 - Testimony: Assault Weapons Ban discussion with Joe Biden](https://www.c-span.org/clip/senate-committee/user-clip-biden-tec-9-tec-22-august-3-1993-assault-weapons-testimony/5029739)<br>
+[1993 - Politics: Testimonyon Assault Weapons Ban discussion with Joe Biden](https://www.c-span.org/clip/senate-committee/user-clip-biden-tec-9-tec-22-august-3-1993-assault-weapons-testimony/5029739)<br>
 [![August 3 1993 Assault Weapons Testimony](https://img.youtube.com/vi/-eoEOxDan6E/0.jpg)](https://www.youtube.com/watch?v=-eoEOxDan6E)<br>
 
 [1994 - Song: Notorious B.I.G. Ready To Die](https://dn721909.ca.archive.org/0/items/ready-to-die_202404/06%20Ready%20to%20Die.mp3)<br>
