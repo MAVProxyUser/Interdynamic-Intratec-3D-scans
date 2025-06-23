@@ -14,8 +14,8 @@
 ["In a sec, I'll throw the TEC to your fuckin' neck"](https://genius.com/161434/The-notorious-big-ready-to-die/Everybody-hit-the-deck-biggie-bout-to-get-some-wreck)<br>
 
 
-https://github.com/user-attachments/assets/d8ca5c23-e668-4ddf-9ead-32c1185f0d7f
 
+https://github.com/user-attachments/assets/fb06b0aa-4126-42f2-9afb-7b2ee0c19619
 
 
 [1999 Movie - Falling Down](https://www.imdb.com/title/tt0106856/)<br>
