@@ -16,11 +16,15 @@
 [1986 - Movie: Big Trouble in Little China](https://www.imdb.com/title/tt0090728/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Jack%20Burton.jpg"><br> 
 
+[1991 - The Streets: Ruther Batuigas former bounty hunter, and criminal reporter in Manila](https://www.gettyimages.co.uk/photos/ruther-batuigas)<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/RutherBatuigas.jpg"><br>  
+
 [1993 - Politics: Testimonyon Assault Weapons Ban discussion with Joe Biden](https://www.c-span.org/clip/senate-committee/user-clip-biden-tec-9-tec-22-august-3-1993-assault-weapons-testimony/5029739)<br>
 [![August 3 1993 Assault Weapons Testimony](https://img.youtube.com/vi/-eoEOxDan6E/0.jpg)](https://www.youtube.com/watch?v=-eoEOxDan6E)<br>
 
 [1994 - Song: Notorious B.I.G. Ready To Die](https://dn721909.ca.archive.org/0/items/ready-to-die_202404/06%20Ready%20to%20Die.mp3)<br>
 ["In a sec, I'll throw the TEC to your fuckin' neck"](https://genius.com/161434/The-notorious-big-ready-to-die/Everybody-hit-the-deck-biggie-bout-to-get-some-wreck)<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/biggie.jpg"><br>  
 
 [1999 - Movie: Falling Down](https://www.imdb.com/title/tt0106856/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/FallingDown.jpg"><br>
