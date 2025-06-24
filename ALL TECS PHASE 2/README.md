@@ -6,3 +6,7 @@ Additionally said booklet has been filled out with the use of calipers on the re
 
 The individual measurements have been archived in the .csv file for easy readibility, or analysis. 
 An Apple .numbers file is also included with the same info. A small analysis from Claud AI is included. 
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/ALL%20TECS%20PHASE%202/ALLTECS%20PHASE%202_ClaudAI.png" alt="First KG-99"><br>
+</p>
