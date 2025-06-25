@@ -12,11 +12,11 @@
 ## Project Phases
 This project is broken down into seperate phases of progress:
 
-Phase 1 - Initial 3D scans with Creality Otter, & begin STEP file conversion<br>
+[Phase 1](https://github.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/tree/main/ALL%20TECS%20PHASE%201) - Initial 3D scans with Creality Otter, & begin STEP file conversion<br>
 
-Phase 2 - Unified STEP files + mesh in the same F3D project, & begin dimensional accuracy measurements<br>
+[Phase 2](https://github.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/tree/main/ALL%20TECS%20PHASE%202) - Unified STEP files + mesh in the same F3D project, & begin dimensional accuracy measurements<br>
 
-Phase 3 - All variants mounted on Czech Nine frame, to expose lower frame erratta<br>
+[Phase 3](https://github.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/tree/main/ALL%20TECS%20PHASE%203) - All variants mounted on Czech Nine frame, to expose lower frame erratta<br>
 
 ## Lore
 
