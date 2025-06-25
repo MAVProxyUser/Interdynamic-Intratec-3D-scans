@@ -4,9 +4,19 @@
   <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/First%20KG-99.jpg" alt="First KG-99"><br>
 </p>
 
-* [Interdynamic KG99 + Intratec Tec9, DC9, & AB10 3D scans](#interdynamic-kg99--intratec-tec9-dc9--ab10-3d-scans)
+* [Interdynamic KG99 + Intratec Tec9, DC9, & AB10 3D scans](#interdynamic-kg99--intratec-tec9-dc9--ab10-3d-scans) 
+   * [Project Phases](#project-phases)
    * [Lore](#lore)
    * [Licensing, and access to these files](#licensing-and-access-to-these-files)
+
+## Project Phases
+This project is broken down into seperate phases of progress:
+
+Phase 1 - Initial 3D scans with Creality Otter, & begin STEP file conversion<br>
+
+Phase 2 - Unified STEP files + mesh in the same F3D project, & begin dimensional accuracy measurements<br>
+
+Phase 3 - All variants mounted on Czech Nine frame, to expose lower frame erratta<br>
 
 ## Lore
 
