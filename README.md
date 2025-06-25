@@ -14,9 +14,17 @@ This project is broken down into seperate phases of progress:
 
 [Phase 1](https://github.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/tree/main/ALL%20TECS%20PHASE%201) - Initial 3D scans with Creality Otter, & begin STEP file conversion<br>
 
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Phase1raw.png"><br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Phase1Mesh.png"><br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Phase1Composite.png"><br>
+
 [Phase 2](https://github.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/tree/main/ALL%20TECS%20PHASE%202) - Unified STEP files + mesh in the same F3D project, & begin dimensional accuracy measurements<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Phase2.png"><br>
 
 [Phase 3](https://github.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/tree/main/ALL%20TECS%20PHASE%203) - All variants mounted on Czech Nine frame, to expose lower frame erratta<br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Phase3kg99mini.png"><br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Phase3EarlyButton.png"><br>
+<img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Phase3AB10.png"><br>
 
 ## Lore
 
