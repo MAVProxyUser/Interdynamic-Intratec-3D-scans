@@ -28,7 +28,7 @@ This project is broken down into seperate phases of progress:
 
 ## Lore
 
-It is impossible to deny the Tec-9 it's place in [history](https://web.archive.org/web/20210614081805/https://www.guns.com/news/2013/08/24/the-tec-9-kellgrens-budget-burpgun), be it TV shows, movies, music, politics, video games, or real life... pop cuture is in love with this iconic "tube".
+It is impossible to deny the Tec-9 it's place in [history](https://web.archive.org/web/20210614081805/https://www.guns.com/news/2013/08/24/the-tec-9-kellgrens-budget-burpgun), be it TV shows, [movies](https://www.imfdb.org/wiki/Interdynamic_KG-9_/_Intratec_TEC-9), music, politics, video games, or real life... pop cuture is in love with this iconic "tube".
 
 [1984 - TV Episode: Miami Vice "Brother's Keeper"](https://www.imdb.com/title/tt0086759/)<br>
 <img src="https://raw.githubusercontent.com/MAVProxyUser/Interdynamic-Intratec-3D-scans/refs/heads/main/Lore/Calderone%20Cartel%20Miami%20Vice.jpg"><br>
