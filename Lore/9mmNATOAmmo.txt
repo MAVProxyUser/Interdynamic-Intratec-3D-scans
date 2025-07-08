@@ -43,6 +43,9 @@ MPN: PPN9
 
 UPC: 8605003814719
 MPN: PPN9BP
+
+UPC: 8605003811671
+MPN: PPN9MCUPC
 ----------------------------
 Sellier & Bellot
 UPC: 754908500888
